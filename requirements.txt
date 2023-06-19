@@ -1,0 +1,21 @@
+potassium
+accelerate
+colored
+cuda-python
+diffusers
+ftfy
+matplotlib
+nvtx
+onnx
+onnxruntime
+--extra-index-url https://pypi.ngc.nvidia.com
+onnx-graphsurgeon
+polygraphy
+scipy
+transformers
+torch>=1.13.1+cu117
+numpy>=1.24.3
+tensorrt>=8.6.1
+Pillow>=9.5.0
+requests>=2.29.0
+tqdm>=4.65.0
